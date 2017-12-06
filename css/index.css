@@ -1,0 +1,17 @@
+.banner-warp {
+  width: 100%;
+  background: #aecad8; }
+  .banner-warp .banner {
+    height: 480px;
+    width: 1180px;
+    margin: 0 auto;
+    position: relative; }
+    .banner-warp .banner .banner-aside {
+      height: 480px;
+      width: 220px;
+      background: #e8e3eb;
+      position: absolute;
+      top: 0;
+      left: 0; }
+
+/*# sourceMappingURL=index.css.map */
